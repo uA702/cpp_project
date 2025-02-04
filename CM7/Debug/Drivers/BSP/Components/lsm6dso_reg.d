@@ -1,4 +1,4 @@
 Drivers/BSP/Components/lsm6dso_reg.o: \
- /home/seraphin/Documents/Master/EmbReal/embreal_cpp/Drivers/BSP/Components/lsm6dso/lsm6dso_reg.c \
- /home/seraphin/Documents/Master/EmbReal/embreal_cpp/Drivers/BSP/Components/lsm6dso/lsm6dso_reg.h
-/home/seraphin/Documents/Master/EmbReal/embreal_cpp/Drivers/BSP/Components/lsm6dso/lsm6dso_reg.h:
+ C:/Simon/GitHub/EmbReal_Ex_LOETSCHER_SIMON/Drivers/BSP/Components/lsm6dso/lsm6dso_reg.c \
+ C:/Simon/GitHub/EmbReal_Ex_LOETSCHER_SIMON/Drivers/BSP/Components/lsm6dso/lsm6dso_reg.h
+C:/Simon/GitHub/EmbReal_Ex_LOETSCHER_SIMON/Drivers/BSP/Components/lsm6dso/lsm6dso_reg.h:

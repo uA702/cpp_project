@@ -1,6 +1,6 @@
 Drivers/BSP/IKS01A3/iks01a3_env_sensors.o: \
- /home/seraphin/Documents/Master/EmbReal/embreal_cpp/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c \
- /home/seraphin/Documents/Master/EmbReal/embreal_cpp/Drivers/BSP/IKS01A3/iks01a3_env_sensors.h \
+ C:/Simon/GitHub/EmbReal_Ex_LOETSCHER_SIMON/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c \
+ C:/Simon/GitHub/EmbReal_Ex_LOETSCHER_SIMON/Drivers/BSP/IKS01A3/iks01a3_env_sensors.h \
  ../X-CUBE-MEMS1/Target/iks01a3_conf.h \
  ../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h \
  ../Core/Inc/stm32h7xx_hal_conf.h \
@@ -47,7 +47,7 @@ Drivers/BSP/IKS01A3/iks01a3_env_sensors.o: \
  ../../Drivers/BSP/Components/lps22hh/lps22hh_reg.h \
  ../../Drivers/BSP/Components/stts751/stts751.h \
  ../../Drivers/BSP/Components/stts751/stts751_reg.h
-/home/seraphin/Documents/Master/EmbReal/embreal_cpp/Drivers/BSP/IKS01A3/iks01a3_env_sensors.h:
+C:/Simon/GitHub/EmbReal_Ex_LOETSCHER_SIMON/Drivers/BSP/IKS01A3/iks01a3_env_sensors.h:
 ../X-CUBE-MEMS1/Target/iks01a3_conf.h:
 ../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h:
 ../Core/Inc/stm32h7xx_hal_conf.h:

@@ -1,7 +1,7 @@
 Drivers/BSP/IKS01A3/iks01a3_motion_sensors_ex.o: \
- /home/seraphin/Documents/Master/EmbReal/embreal_cpp/Drivers/BSP/IKS01A3/iks01a3_motion_sensors_ex.c \
- /home/seraphin/Documents/Master/EmbReal/embreal_cpp/Drivers/BSP/IKS01A3/iks01a3_motion_sensors_ex.h \
- /home/seraphin/Documents/Master/EmbReal/embreal_cpp/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.h \
+ C:/Simon/GitHub/EmbReal_Ex_LOETSCHER_SIMON/Drivers/BSP/IKS01A3/iks01a3_motion_sensors_ex.c \
+ C:/Simon/GitHub/EmbReal_Ex_LOETSCHER_SIMON/Drivers/BSP/IKS01A3/iks01a3_motion_sensors_ex.h \
+ C:/Simon/GitHub/EmbReal_Ex_LOETSCHER_SIMON/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.h \
  ../X-CUBE-MEMS1/Target/iks01a3_conf.h \
  ../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h \
  ../Core/Inc/stm32h7xx_hal_conf.h \
@@ -48,8 +48,8 @@ Drivers/BSP/IKS01A3/iks01a3_motion_sensors_ex.o: \
  ../../Drivers/BSP/Components/lis2dw12/lis2dw12_reg.h \
  ../../Drivers/BSP/Components/lis2mdl/lis2mdl.h \
  ../../Drivers/BSP/Components/lis2mdl/lis2mdl_reg.h
-/home/seraphin/Documents/Master/EmbReal/embreal_cpp/Drivers/BSP/IKS01A3/iks01a3_motion_sensors_ex.h:
-/home/seraphin/Documents/Master/EmbReal/embreal_cpp/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.h:
+C:/Simon/GitHub/EmbReal_Ex_LOETSCHER_SIMON/Drivers/BSP/IKS01A3/iks01a3_motion_sensors_ex.h:
+C:/Simon/GitHub/EmbReal_Ex_LOETSCHER_SIMON/Drivers/BSP/IKS01A3/iks01a3_motion_sensors.h:
 ../X-CUBE-MEMS1/Target/iks01a3_conf.h:
 ../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h:
 ../Core/Inc/stm32h7xx_hal_conf.h:

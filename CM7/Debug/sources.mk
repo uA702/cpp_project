@@ -42,5 +42,7 @@ CPP_Core/Src \
 Common/Src \
 Core/Src \
 Core/Startup \
+Drivers/BSP/Components \
+Drivers/BSP/IKS01A3 \
 Drivers/STM32H7xx_HAL_Driver \
 

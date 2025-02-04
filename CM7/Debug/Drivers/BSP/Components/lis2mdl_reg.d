@@ -1,4 +1,4 @@
 Drivers/BSP/Components/lis2mdl_reg.o: \
- /home/seraphin/Documents/Master/EmbReal/embreal_cpp/Drivers/BSP/Components/lis2mdl/lis2mdl_reg.c \
- /home/seraphin/Documents/Master/EmbReal/embreal_cpp/Drivers/BSP/Components/lis2mdl/lis2mdl_reg.h
-/home/seraphin/Documents/Master/EmbReal/embreal_cpp/Drivers/BSP/Components/lis2mdl/lis2mdl_reg.h:
+ C:/Simon/GitHub/EmbReal_Ex_LOETSCHER_SIMON/Drivers/BSP/Components/lis2mdl/lis2mdl_reg.c \
+ C:/Simon/GitHub/EmbReal_Ex_LOETSCHER_SIMON/Drivers/BSP/Components/lis2mdl/lis2mdl_reg.h
+C:/Simon/GitHub/EmbReal_Ex_LOETSCHER_SIMON/Drivers/BSP/Components/lis2mdl/lis2mdl_reg.h:
